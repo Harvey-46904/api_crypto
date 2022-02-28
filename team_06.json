@@ -1,0 +1,18 @@
+{
+  "image": "https://raw.githubusercontent.com/Harvey-46904/api_crypto/main/Po-06.jpg",
+  "description": "Miembro del equipo cryptoversox",
+  "external_url": "https://google.com",
+  "name": "Cryptoversox-Team #06",
+  "attributes": [
+   
+    {
+      "display_type": "date",
+      "trait_type": "birthday",
+      "value": 1622359775
+    },
+    {
+      "trait_type": "Type",
+      "value": "Team Cryptoversox"
+    }
+  ]
+}

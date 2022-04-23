@@ -1,18 +1,36 @@
 {
   "image": "https://raw.githubusercontent.com/Harvey-46904/api_crypto/main/Po-13.jpg",
-  "description": "Miembro del equipo cryptoversox",
+  "description": "RVOX, RAZOMBIX infectados con el virus, que apesar de contener el bicho en su sistema tiene la capacidad de razocionio de un humano No infectado en mas del 90%, mantienen el instinto de liderazgo y desarrollo por eso son los reyes del reino, superando a otros de su especie en conciencia velocidad inteligencia y fuerza ",
   "external_url": "https://google.com",
-  "name": "CryptoversoxPRUEBA",
+  "name": "RVOX 1",
   "attributes": [
-   
     {
-      "display_type": "date",
-      "trait_type": "birthday",
-      "value": 1622359775
+      "trait_type": "Head", 
+      "value": "Cerebro Oro"
     },
     {
-      "trait_type": "Type",
-      "value": "Team Cryptoversox"
+      "trait_type": "Eyes", 
+      "value": " Diamantes - Brillante"
+    },
+    {
+      "trait_type": "Background", 
+      "value": "Degradado Neón"
+    },
+    {
+      "trait_type": "Background", 
+      "value": "Degradado Neón"
+    }, 
+    {
+      "trait_type": "Ears", 
+      "value": "Mordida"
+    },
+    {
+      "trait_type": "Mouth", 
+      "value": "DINERO EN DIENTES "
+    },
+    {
+      "trait_type": "Category",
+      "value": "RVOX"
     }
   ]
 }

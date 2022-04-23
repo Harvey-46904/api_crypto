@@ -34,18 +34,23 @@
     },
     {
       "display_type": "boost_number", 
-      "trait_type": "Aqua Power", 
-      "value": 40
+      "trait_type": "Inteligencia", 
+      "value": 5
     }, 
     {
-      "display_type": "boost_percentage", 
-      "trait_type": "Stamina Increase", 
-      "value": 10
-    }, 
+      "display_type": "boost_number", 
+      "trait_type": "Velocidad", 
+      "value": 5
+    },
     {
-      "display_type": "number", 
-      "trait_type": "Generation", 
-      "value": 2
+      "display_type": "boost_number", 
+      "trait_type": "Fuerza", 
+      "value": 5
+    },
+    {
+      "display_type": "boost_number", 
+      "trait_type": "Conciencia", 
+      "value": 5
     }
   ]
-}
+} 			
